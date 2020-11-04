@@ -1,0 +1,2 @@
+# HoloGIS
+Virtual reality software developed for urban planners, architects and researchers who are interested in smart cities, pure blueprints, with basic functions such as model highlighting, web linking, POI conversion and data archive. With a complete data structure, functional modules can be configured as you wish, and blueprints can be used to develop more functional modules. More functional modules and data structures will be added later.
